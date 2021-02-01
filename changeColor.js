@@ -5,7 +5,7 @@ button.onclick=random_bg_color;
 
 button.style.position="absolute"
 button.style.top="50%"
-button.style.left="50%"
+button.style.left="40%"
 button.style.fontSize= '40px'
 button.style.padding= '15px 32px'
 button.style.borderRadius="10%"
